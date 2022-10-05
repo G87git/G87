@@ -1,5 +1,5 @@
 
-![G87 PORTFOLIO](https://www.canva.com/design/DAFNsMYxAgY/2nEbUNw2aaVzaLzku6mtFA/edit?utm_content=DAFNsMYxAgY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![G87 PORTFOLIO](https://www.canva.com/design/DAFNsMYxAgY/IJm6gYpvG4-lVDy2dZq9lA/watch?utm_content=DAFNsMYxAgY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ## Available Scripts
 
