@@ -14,7 +14,7 @@ const Navbar = () => {
   const handleClick = () => setNav(!nav);
 
   return (
-    <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-1 text-white text-xl'>
+    <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-1 text-[#8892b0] text-xl'>
       <div>
         <img src={Logo} alt='Logo' style={{ width: '70px' }} />
         {/* <h1 className='text-5xl'><strong>G87</strong></h1> */}
@@ -56,7 +56,7 @@ const Navbar = () => {
 
       {/* Hamburger */}
       <div onClick={handleClick} className='md:hidden z-10'>
-        {!nav ? <FaBars /> : <FaTimes />}
+        {!nav ? <FaBars /> : <FaTimes  color='#391d0c'/>}
       </div>
 
       {/* Mobile menu */}
@@ -64,7 +64,7 @@ const Navbar = () => {
         className={
           !nav
             ? 'hidden'
-            : 'absolute top-0 left-0 w-full h-screen bg-[#0a192f] flex flex-col justify-center items-center'
+            : 'absolute top-0 left-0 w-full h-screen bg-[#ffffff] flex flex-col justify-center items-center text-[#391d0c]'
         }
       >
         <li className='py-6 text-4xl'>
