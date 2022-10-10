@@ -76,7 +76,7 @@ const More = () => {
         </ul>
       </div>
       <div>
-        <p className='text-center text-gray-300 text-sm '> Designed and Built by **Nzangmene Hassan**</p>
+        <p className='text-center text-gray-300 text-sm '> Designed & Built by Nzangmene Hassan </p>
       </div>
     </div>
   )

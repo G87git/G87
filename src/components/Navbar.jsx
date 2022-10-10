@@ -21,18 +21,18 @@ const Navbar = () => {
       </div>
 
       {/* menu */}
-      <ul className='hidden md:flex '>
-        <li className='hover:text-[#ED9728]'>
+      <ul className='hidden md:flex'>
+        <li className='hover:text-[#ED9728]  mx-5'>
           <Link to='home' smooth={true} duration={500}>
             Home
           </Link>
         </li>
-        <li className='hover:text-[#ED9728]'>
+        <li className='hover:text-[#ED9728]  mx-5'>
           <Link to='about' smooth={true} duration={500}>
             About
           </Link>
         </li>
-        <li className='hover:text-[#ED9728]'>
+        <li className='hover:text-[#ED9728] mx-5'>
           <Link to='skills' smooth={true} duration={500}>
             Experience
           </Link>
@@ -42,7 +42,7 @@ const Navbar = () => {
             Work
           </Link>
         </li>
-        <li className='hover:text-[#ED9728]'>
+        <li className='hover:text-[#ED9728] mx-5'>
           <Link to='contact' smooth={true} duration={500}>
             Contact
           </Link>

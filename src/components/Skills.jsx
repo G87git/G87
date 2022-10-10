@@ -1,17 +1,17 @@
 import React from 'react';
 
-import HTML from '../assets/HTML_3.png';
-import CSS from '../assets/Css3_3.png';
-import JavaScript from '../assets/java-script.png';
-import ReactImg from '../assets/react-js-logo.png';
+import HTML from '../assets/html.png';
+import CSS from '../assets/css.png';
+import JavaScript from '../assets/javascript.png';
+import ReactImg from '../assets/react.png';
 import Mysql from '../assets/mysql.png';
 import FireBase from '../assets/firebase.png';
 import GitHub from '../assets/github.png';
 import Tailwind from '../assets/tailwind.png';
-import Python from '../assets/python-logo.png';
-import Flutter from "../assets/flutter-logo.png";
+import Python from '../assets/python.png';
+import Flutter from "../assets/flutter.png";
 import Php from "../assets/php.png";
-import Figma from '../assets/figma-logo.png';
+import Figma from '../assets/figma.png';
 
 const Skills = () => {
   return (
