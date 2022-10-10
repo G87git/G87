@@ -15,9 +15,10 @@ const Home = () => {
           I'm a Full-Stack Developer.
         </h2>
         <p className='text-[#eceef6] py-4 max-w-[700px]'>
-        A programmer with experience in both the front end and back end of an application who focuses on software development.
-        I work to create a seamless user experience using my diverse skill set.
-        I also have understanding of database configuration, server setup, and user interface.
+        A programmer who concentrates on software development and has knowledge
+        of both the front-end and back-end of an application.
+        I employ a variety of skills to produce a seamless user experience. 
+        I also understand how to set up a server, a database, and a user interface.
         </p>
         <div>
         <Link to='work' smooth={true} duration={500}>
