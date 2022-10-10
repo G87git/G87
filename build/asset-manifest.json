@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/G87_Portfolio/static/css/main.74603363.css",
-    "main.js": "/G87_Portfolio/static/js/main.85c946d7.js",
+    "main.js": "/G87_Portfolio/static/js/main.b23dbfc8.js",
     "static/media/github.png": "/G87_Portfolio/static/media/github.23fdeb57475bbc65bb9f.png",
     "static/media/Whatsapp_3.png": "/G87_Portfolio/static/media/Whatsapp_3.dee0e20c5de7e524bdc7.png",
     "static/media/NZANMENE DIT DIBRIL HASSAN.pdf": "/G87_Portfolio/static/media/NZANMENE DIT DIBRIL HASSAN.84bfa66205dbc63bda3d.pdf",
@@ -24,10 +24,10 @@
     "static/media/mysql.png": "/G87_Portfolio/static/media/mysql.0665ffa83c4d5f57deff.png",
     "index.html": "/G87_Portfolio/index.html",
     "main.74603363.css.map": "/G87_Portfolio/static/css/main.74603363.css.map",
-    "main.85c946d7.js.map": "/G87_Portfolio/static/js/main.85c946d7.js.map"
+    "main.b23dbfc8.js.map": "/G87_Portfolio/static/js/main.b23dbfc8.js.map"
   },
   "entrypoints": [
     "static/css/main.74603363.css",
-    "static/js/main.85c946d7.js"
+    "static/js/main.b23dbfc8.js"
   ]
 }
