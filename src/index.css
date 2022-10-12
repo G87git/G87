@@ -3,6 +3,18 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap");
+
+::-webkit-scrollbar{
+    width: 05px;
+}
+::-webkit-scrollbar-track{
+    background-color: #391D0C;
+}
+::-webkit-scrollbar-thumb{
+    background: #8892b0;
+    border-radius: 50px;
+}
 .content-div {
     background-repeat: no-repeat;
     background-size: cover;

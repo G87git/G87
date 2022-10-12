@@ -1,12 +1,12 @@
 import React from 'react';
 // import WorkImg from '../assets/workImg.jpeg';
 // import realEstate from '../assets/realestate.jpg';
-import work1 from '../assets/work.jpg'
-import work2 from '../assets/work.jpg'
-import work3 from '../assets/work3.jpg'
-import work4 from '../assets/work4.jpg'
-import work5 from '../assets/work5.jpg'
-import work6 from '../assets/work6.jpg'
+import work1 from '../assets/work/work.jpg'
+import work2 from '../assets/work/work.jpg'
+import work3 from '../assets/work/work3.jpg'
+import work4 from '../assets/work/work4.jpg'
+import work5 from '../assets/work/work5.jpg'
+import work6 from '../assets/work/work6.jpg'
 
 
 const Work = () => {
